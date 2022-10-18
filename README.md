@@ -27,11 +27,12 @@ and loading the special python packages for the editor when is possible.
 **How it works:**
 
 Easy! Just click on the Main Menu -> Dream
+
 Text what you want and Unreal will do the rest in some minutes!
 
 For example:
 
-- I need a concept, simple as that:
+- I need a concept, simple as text something like: "A concept art of a beautiful city, fantasy, trending on artstation":
 
 ![eu5dream](https://user-images.githubusercontent.com/8300565/196512831-ddee57df-abd2-4ff2-9f92-4f4c5b2d0156.png)
 
@@ -40,6 +41,11 @@ For example:
 
 ![makeitunreal](https://user-images.githubusercontent.com/8300565/196517710-23a3a0b2-21e7-4505-b1c6-676d8676b5e0.png)
 
+- There is a limit for a dream? I don't think so...
+
+![limits](https://user-images.githubusercontent.com/8300565/196563099-9b3cad6b-e481-4397-aec4-58b48574daf0.png)
+
+**MORE UPDATES COMING SOON**
 
 **Of course you need a good hardware to make it work!**
 
