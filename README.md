@@ -46,6 +46,7 @@ For example:
 ![limits](https://user-images.githubusercontent.com/8300565/196563099-9b3cad6b-e481-4397-aec4-58b48574daf0.png)
 
 **MORE UPDATES COMING SOON**
+Also a video of the whole project!!
 
 **Of course you need a good hardware to make it work!**
 
