@@ -78,8 +78,6 @@ If you are interested in being a beta tester or
 you are a dev and think about to contribute 
 please text me in [Twitter](https://twitter.com/ACEstarelles), [Reddit](https://www.reddit.com/user/AlbertoUEDev) or [UE Dev Forum](https://dev.epicgames.com/community/profile/OjQW/alberto).
 
-Also I did ask to Epic if some expert or angel can check the code
-Just to be sure about code quality and privacy
 
 
 
