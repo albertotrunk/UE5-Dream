@@ -10,6 +10,9 @@ THE EARLY ACCESS WILL BE AVAILABLE SOON
 **I need someone who works in Epic or has a Megagrant to check the code**
 and to be sure about quality!!
 
+
+
+
 What?? Why?? How??
 
 UE5 Stable Diffusion plugin makes Unreal Engine an unlimited AI-enhanced tool, and is not just a 3D tool anymore.
@@ -27,6 +30,8 @@ https://github.com/getnamo/TensorFlow-Unreal
 Unreal Engine Python Utils
 
 https://forums.unrealengine.com/t/understanding-and-teaching-python-for-unreal-engine/152204
+
+https://github.com/mamoniem/UnrealEditorPythonScripts
 
 
 
@@ -58,6 +63,17 @@ For example:
 - There is a limit for a dream? I don't think so...
 
 ![limits](https://user-images.githubusercontent.com/8300565/196563099-9b3cad6b-e481-4397-aec4-58b48574daf0.png)
+
+
+NEXT STEPS
+
+https://imagen.research.google/video/
+
+https://dreamfusion3d.github.io/
+
+https://mingyuan-zhang.github.io/projects/MotionDiffuse.html
+
+https://felixkreuk.github.io/text2audio_arxiv_samples/
 
 **MORE UPDATES COMING SOON**
 Also a video of the whole project!!
