@@ -53,3 +53,8 @@ Also a video of the whole project!!
 If you are interested in being a beta tester or 
 you are a dev and think about to contribute 
 please text me in [Twitter](https://twitter.com/ACEstarelles), [Reddit](https://www.reddit.com/user/AlbertoUEDev) or [UE Dev Forum](https://dev.epicgames.com/community/profile/OjQW/alberto).
+
+And important!! I think is mandatory a expert from Epic checks the code, if you are or know some ...
+
+
+
