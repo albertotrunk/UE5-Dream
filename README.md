@@ -2,7 +2,10 @@
 UE5 Stable Diffusion Plugin the Dream project! 
 
 Currently the code is private, 
-but is going to be open-source and free-for-all very soon!
+but is going to be open-source and free-for-all!
+
+THE EARLY ACCESS WILL BE AVAILABLE SOON
+I need someone who works in Epic or have a Megagrant to check the code
 
 What?? Why?? How??
 
