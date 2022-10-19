@@ -14,6 +14,14 @@ and loading the special python packages for the editor when is possible.
 
 ![image](https://user-images.githubusercontent.com/8300565/196526602-343fbf21-e979-43a8-9d96-50ff1a57e8e8.png)
 
+Unreal Engine Tensor Flow
+
+https://github.com/getnamo/TensorFlow-Unreal
+
+Unreal Engine Python Utils
+
+https://forums.unrealengine.com/t/understanding-and-teaching-python-for-unreal-engine/152204
+
 
 
 **The example project launcher: **
