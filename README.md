@@ -7,12 +7,6 @@ but is going to be open-source and free-for-all!
 
 THE EARLY ACCESS WILL BE AVAILABLE SOON
 
-**I need someone who works in Epic or has a Megagrant to check the code**
-and to be sure about quality!!
-
-
-
-
 What?? Why?? How??
 
 UE5 Stable Diffusion plugin makes Unreal Engine an unlimited AI-enhanced tool, and is not just a 3D tool anymore.
@@ -84,7 +78,8 @@ If you are interested in being a beta tester or
 you are a dev and think about to contribute 
 please text me in [Twitter](https://twitter.com/ACEstarelles), [Reddit](https://www.reddit.com/user/AlbertoUEDev) or [UE Dev Forum](https://dev.epicgames.com/community/profile/OjQW/alberto).
 
-And important!! I think is mandatory a expert from Epic checks the code, if you are or know some ...
+Also I did ask to Epic if some expert or angel can check the code
+Just to be sure about code quality and privacy
 
 
 
