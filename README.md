@@ -1,7 +1,8 @@
 # UE5-Dream
 UE5 Stable Diffusion Plugin the Dream project! 
 
-Currently the code is private, patience please
+Currently the code is private, patience please!
+
 Sorry guys I cannot anwser all comments
 
 
