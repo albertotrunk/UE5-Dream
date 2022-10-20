@@ -1,19 +1,14 @@
 # UE5-Dream
 UE5 Stable Diffusion Plugin the Dream project! 
 
-Currently the code is private, patience please!
+STATUS: Under testing!!
 
-Sorry guys I cannot anwser all comments
-
-
-After receive some complains I decide to make a video to show the concept/prototyping workfflow:
-
+WORKFLOW EXAMPLE: concept/prototyping
 
 https://user-images.githubusercontent.com/8300565/196834670-ca8b122f-e0d7-4285-97ff-c38bd9e5aa60.mp4
 
 
-What?? Why?? How??
-
+LET'S DREAM!
 UE5 Stable Diffusion plugin makes Unreal Engine an unlimited AI-enhanced tool, and is not just a 3D tool anymore.
 
 Based on [**Stability.Ai Stable Diffusion**](https://stability.ai/) and using a specially trained model for weights, 
@@ -22,9 +17,6 @@ and loading the special python packages for the editor when is possible.
 
 ![image](https://user-images.githubusercontent.com/8300565/196526602-343fbf21-e979-43a8-9d96-50ff1a57e8e8.png)
 
-Unreal Engine Tensor Flow
-
-https://github.com/getnamo/TensorFlow-Unreal
 
 Unreal Engine Python Utils
 
@@ -59,29 +51,35 @@ For example:
 
 ![makeitunreal](https://user-images.githubusercontent.com/8300565/196517710-23a3a0b2-21e7-4505-b1c6-676d8676b5e0.png)
 
-- There is a limit for a dream? I don't think so...
 
-![limits](https://user-images.githubusercontent.com/8300565/196563099-9b3cad6b-e481-4397-aec4-58b48574daf0.png)
+FAQS:
+
+- When is the release?
+  October 30
+
+- When is going to be open-source?
+  If you want to contribute tell me, you are welcome!
+
+- Unlimited promps? 
+  Of course, feel free
+
+- Do i need to login in hugging face?
+  No, in fact use the model you want!
+  
+- Hardware requirements?
+  There is no way to awnser, it deppends of your project
+  I can tell you I have a RTX3070 and to reboot unreal after 5/6 dreams is not a big deal looking the results!
+  Of course my main objective is to try to optimize it.
+
+- What about the copyright of the generated images?
+  AI images as far as I know, nop
+  
+
+UPDATES COMING
 
 
-NEXT STEPS
+  
 
-https://imagen.research.google/video/
-
-https://dreamfusion3d.github.io/
-
-https://mingyuan-zhang.github.io/projects/MotionDiffuse.html
-
-https://felixkreuk.github.io/text2audio_arxiv_samples/
-
-**MORE UPDATES COMING SOON**
-Also a video of the whole project!!
-
-**Of course you need a good hardware to make it work!**
-
-If you are interested in being a beta tester or 
-you are a dev and think about to contribute 
-please text me in [Twitter](https://twitter.com/ACEstarelles), [Reddit](https://www.reddit.com/user/AlbertoUEDev) or [UE Dev Forum](https://dev.epicgames.com/community/profile/OjQW/alberto).
 
 
 
