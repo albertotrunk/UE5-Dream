@@ -1,11 +1,13 @@
 # UE5-Dream
 UE5 Stable Diffusion Plugin the Dream project! 
 
-Currently the code is private, 
+Currently the code is private, patience please
 
-but is going to be open-source and free-for-all!
+After receive some complains I decide to make a video to show the concept/prototyping workfflow:
 
-THE EARLY ACCESS WILL BE AVAILABLE SOON
+
+https://user-images.githubusercontent.com/8300565/196834670-ca8b122f-e0d7-4285-97ff-c38bd9e5aa60.mp4
+
 
 What?? Why?? How??
 
