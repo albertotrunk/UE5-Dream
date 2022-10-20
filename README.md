@@ -2,6 +2,8 @@
 UE5 Stable Diffusion Plugin the Dream project! 
 
 Currently the code is private, patience please
+Sorry guys I cannot anwser all comments
+
 
 After receive some complains I decide to make a video to show the concept/prototyping workfflow:
 
