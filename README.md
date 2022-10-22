@@ -1,7 +1,10 @@
 # UE5-Dream
 UE5 Stable Diffusion Plugin the Dream project! 
 
-STATUS: Under testing!!
+
+JOIN US IN THE COMMUNITY 
+https://discord.gg/tmtSqmXf
+we are testing on live
 
 WORKFLOW EXAMPLE: concept/prototyping
 
