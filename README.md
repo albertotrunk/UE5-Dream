@@ -9,7 +9,7 @@ https://github.com/albertotrunk/ue-stable-diffusion/
 
 
 Join us in the community
-https://discord.gg/tmtSqmXf
+https://discord.gg/jxWBwY8r5c (updated link on 11/01/22)
 we are testing on live
 
 Workflow example: concept/prototyping
