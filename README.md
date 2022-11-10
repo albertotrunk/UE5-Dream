@@ -1,5 +1,5 @@
 # UE5-Dream
-UE5 Stable Diffusion Plugin the Dream project! 
+UE5 Stable Diffusion Plugin the Dream project base! 
 
 
 THE PUBLIC REPO OF THE PLUGIN
