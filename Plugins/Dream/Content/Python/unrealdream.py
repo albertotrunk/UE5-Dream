@@ -104,7 +104,7 @@ init_img = f"{unreal.Paths.screen_shot_dir()}dream.png"
 parser = argparse.ArgumentParser()
 
 parser.add_argument(
-    "--prompt", type=str, nargs="?", default="lions everywhere", help="the dream to render"
+    "--prompt", type=str, nargs="?", default="random alien world", help="the dream to render"
 )
 
 parser.add_argument("--outdir", type=str, nargs="?", help="dir to write results to", default=outdir)
