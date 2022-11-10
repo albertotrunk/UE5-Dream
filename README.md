@@ -15,8 +15,18 @@ Workflow example: concept/prototyping
 https://user-images.githubusercontent.com/8300565/196834670-ca8b122f-e0d7-4285-97ff-c38bd9e5aa60.mp4
 
 
+Add your custom model to
 
-How to install:
+"\Plugins\Dream\Content\Python\model\model.ckpt"
+
+If you don't have:
+
+https://www.youtube.com/watch?v=7m__xadX0z0&t=2122s
+
+https://mega.nz/folder/QpxHhD6B#pjztuY4D38W-SR07FKkdiQ
+
+
+How to install dependencies:
 
 https://user-images.githubusercontent.com/8300565/201211722-842b38fb-f884-448b-944e-d5db895dab5b.mp4
 
