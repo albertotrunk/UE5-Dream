@@ -30,6 +30,15 @@ How to install dependencies:
 
 https://user-images.githubusercontent.com/8300565/201211722-842b38fb-f884-448b-944e-d5db895dab5b.mp4
 
+Next features incoming:
+
+Dreamahuman, an ai-enhnaced filter
+
+
+
+https://user-images.githubusercontent.com/8300565/201531333-4f71eb36-e526-4386-90bf-4e9ef823611d.mp4
+
+
 
 THE PUBLIC DEV REPO OF THE PLUGIN
 
