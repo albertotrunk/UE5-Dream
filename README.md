@@ -1,6 +1,9 @@
-# UE5-Dream
-UE5 Stable Diffusion Plugin 
-the Dream project base! 
+# UE5-Dream v2 is comming
+If you are looking for V1:
+https://github.com/albertotrunk/ue-stable-diffusion
+
+![image](https://user-images.githubusercontent.com/8300565/218290008-db8bd613-75d9-4432-b6e0-5ac3b25eac01.png)
+
 
 # Why UE5-Dream?
 
@@ -49,16 +52,5 @@ And I mix both styles
 # How to Dream!
 https://www.youtube.com/watch?v=69coRSn80u0
 
-
-Download the last version from:
-
-https://github.com/albertotrunk/UE5-Dream/releases/
-
-Join us in the community for issues, latest news and fun!
-
+# Join the community!
 https://discord.gg/jxWBwY8r5c
-If you are looking for the SDK dreamstudio version:
-https://github.com/albertotrunk/ue5dream
-(I decided to split because API version is less than 2MB)
-
-![201211931-c941cd7b-753a-4555-a3f5-87c85c7b0e1f](https://user-images.githubusercontent.com/8300565/207783119-531861d8-cd39-4fde-9ba2-05fad0b70276.png)
