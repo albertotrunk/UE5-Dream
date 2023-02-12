@@ -1,5 +1,5 @@
 # UE5-Dream v2 is comming
-If you are looking for V1:
+If you are looking for the dev version of Dream:
 https://github.com/albertotrunk/ue-stable-diffusion
 
 ![image](https://user-images.githubusercontent.com/8300565/218290008-db8bd613-75d9-4432-b6e0-5ac3b25eac01.png)
