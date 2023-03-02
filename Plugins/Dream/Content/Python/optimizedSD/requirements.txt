@@ -19,7 +19,7 @@ pytorch_lightning == 1.7.6
 scipy == 1.9.3
 taming-transformers == 0.0.1
 taming-transformers-rom1504 == 0.0.6
-torch == 1.12.1
+torch == 1.13.1
 torchvision == 0.13.1
 tqdm == 4.64.1
 transformers == 4.19.2
