@@ -22,31 +22,6 @@
 		{
 			"Name": "PythonAutomationTest",
 			"Enabled": true
-		},
-		{
-			"Name": "RigLogic",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkControlRig",
-			"Enabled": true
-		},
-		{
-			"Name": "AppleARKitFaceSupport",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac"
-			]
-		},
-		{
-			"Name": "HairStrands",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

@@ -1,4 +1,3 @@
-#Thanks to Mystfit https://github.com/Mystfit/Unreal-StableDiffusionTools/tree/master/StableDiffusionTools/Content/Python
 import os, sys, subprocess
 import urllib.request
 from urllib.parse import urlparse
@@ -10,19 +9,19 @@ dependencies = {
     "omegaconf": {},
     "einops": {},
     "clip": {},
-    "kornia": {},     
+    "kornia": {},
     "gitpython": {"module": "git"},
     "pytorch_lightning": {},
     "torch": {"args": "--extra-index-url https://download.pytorch.org/whl/cu117"},
     "torchvision":  {"args": "--extra-index-url https://download.pytorch.org/whl/cu117"},
     "torchaudio":  {"args": "--extra-index-url https://download.pytorch.org/whl/cu117"},
+    "xformers": {"url": "https://github.com/Mystfit/xformers/releases/download/v0.15.0/xformers-0.0.15.dev0+5767ab4.d20221121-cp39-cp39-win_amd64.whl", "upgrade": True},
     "diffusers": {"url": "https://github.com/huggingface/diffusers.git"},
     "transformers": {},
-    "scipy":{},
+    "scipy": {},
     "ftfy": {},
     "realesrgan": {},
     "accelerate": {},
-    "xformers": {"url": "https://github.com/Mystfit/xformers/releases/download/v0.0.14/xformers-0.0.14.dev0-cp39-cp39-win_amd64.whl", "upgrade": True},
     "taming-transformers-rom1504": {}
 }
 
@@ -64,7 +63,8 @@ def install_dependencies(pip_dependencies):
                 extra_flags.append("--upgrade")
 
             try:
-                print(subprocess.check_output([f"{pythonpath}", '-m', 'pip', 'install'] + extra_flags + dep_name), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                result = subprocess.run([f"{pythonpath}", '-m', 'pip', 'install'] + extra_flags + dep_name, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+                print(result.stdout)
             except CalledProcessError as e:
                 print("Return code for dependency {0} was non-zero. Returned {1} instead".format(dep_name, str(e.returncode)))
                 print("Command:")
