@@ -1,7 +1,7 @@
 #This is a version from stable diffusion optimized SD https://github.com/basujindal/stable-diffusion/tree/main/optimizedSD
 #original repo https://github.com/basujindal/stable-diffusion
 import unreal
-unreal.log("Unreal Stable Diffusion - Let's dream!")
+unreal.log("Unreal - Let's dream!")
 
 import argparse, os
 import torch
@@ -17,6 +17,28 @@ from torch import autocast
 from contextlib import nullcontext
 from einops import rearrange, repeat
 from ldm.util import instantiate_from_config
+
+import gc
+
+# Enable or disable the garbage collector
+gc.enable()
+# Forces an immediate garbage collection
+gc.collect()
+
+# Get the current count of objects tracked by the garbage collector
+count = gc.get_count()
+print(f"Object count: {count}")
+
+# Get information about unreachable objects found by the garbage collector
+garbage = gc.garbage
+print(f"Unreachable objects: {garbage}")
+
+# Set garbage collection debugging flags
+gc.set_debug(gc.DEBUG_LEAK)
+
+# Clear the flags
+gc.set_debug(0)
+
 
 def split_weighted_subprompts(text):
     """
@@ -410,4 +432,23 @@ time_taken = (toc - tic) / 60.0
 
 unreal.log(f"Samples finished in {0:.2f} minutes and exported to {sample_path}\n Seeds used {seeds[:-1]}")
 unreal.log(format(time_taken))
+
+# Forces an immediate garbage collection
+gc.collect()
+
+# Get the current count of objects tracked by the garbage collector
+count = gc.get_count()
+print(f"Object count: {count}")
+
+# Get information about unreachable objects found by the garbage collector
+garbage = gc.garbage
+print(f"Unreachable objects: {garbage}")
+
+# Set garbage collection debugging flags
+gc.set_debug(gc.DEBUG_LEAK)
+
+# Clear the flags
+gc.set_debug(0)
+gc.disable()
+
 exit()
