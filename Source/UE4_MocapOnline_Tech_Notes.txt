@@ -1,0 +1,40 @@
+All animations are on the UE4 template skeleton with IK bones.
+
+In-place animations noted as “IP” or "IPC"(In-Place Custom).
+
+FBX source files are also included as single Take animations on the UE4 template skeleton, ready for direct import on any other character using the UE4 template skeleton, or for skeleton-to-skeleton retargeting in UE4 to any other Humanoid character.
+
+A Motionbuilder 2015 file is included with the UE4 template skeleton setup with the the HIK rig. Any of the FBX files can be imported, edited and animated as desired, and re-exported as new animations.
+
+
+Please see the document with details about FBX import into UE4:
+
+http://www.motioncaptureonline.com/blogs/news/ue4-version-compatiblility-and-usage-new-faq
+
+
+
+A Maya 2015 file is included with the UE4 template skeleton setup with the the HIK rig. Any of the FBX files can be imported, edited and animated as desired, and re-exported as new animations.
+
+--------------------
+
+SK_Mannequin T Pose
+
+
+This "SK_Mannequin.fbx" has a zeroed out T-Pose like the old 4.7 UE4 Template rig.
+(The new 4.8 rig by default is posed in an "A" with the arms/hands rotated on all axes)
+
+It can overwrite (be merged) into any current UE4 Project SK_Mannequin mesh to create a stock T-Pose for use in the Retargeting Manager.
+
+**Note: The hands are rotated up and forward 10 degrees to make a better Tee, their rotation values are not true zero.
+
+-------------------
+
+SK_Mannequin A Pose
+
+
+Our newer packs have the "SK_Mannequin" in a zeroed out T-Pose like the old 4.7 UE4 Template rig. This was done by popular request.
+**Note: The hands are rotated up and forward 10 degrees to make a better Tee, their rotation values are not true zero.
+
+
+If you prefer the new 4.8+ rig default "A" pose with the arms/hands non-zero rotated down on all axes, this "SK_Mannequin.fbx" can overwrite (be merged) into any current UE4 Project SK_Mannequin mesh to create the new stock A-Pose for use in the Retargeting Manager.
+
